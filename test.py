@@ -1,1 +1,1 @@
-print('helo')
+prinnt('helo')
